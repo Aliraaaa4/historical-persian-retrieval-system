@@ -8,6 +8,14 @@ OpenITI/KITAB corpus. It combines lexical and dense retrieval, applies hybrid
 ranking and trust-aware abstention, and returns passages with explicit source
 metadata. It does not use a generative language model to produce answers.
 
+## Highlights
+
+- Built a source-grounded Persian retrieval system over the OpenITI/KITAB corpus.
+- Designed a hybrid retrieval architecture combining lexical and dense retrieval.
+- Implemented trust-aware abstention to avoid unsupported retrieval results.
+- Developed a FastAPI REST interface for local deployment.
+- Built a fully tested retrieval prototype with 451 passing automated tests.
+- Designed the system to run locally using open-source libraries and models.
 ## Project status
 
 The repository contains a tested local retrieval prototype with:
