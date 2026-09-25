@@ -1,5 +1,4 @@
-# Historical Persian Text Retrieval System
-
+# Historical Persian Text Retrieval Engine
 A local, source-grounded retrieval system for historical Persian and Islamic
 texts, developed for the NAJM Junior AI Engineer (NLP) take-home project.
 
